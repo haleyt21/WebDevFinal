@@ -1,0 +1,18 @@
+.common{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:black;
+}
+
+.header{
+    background-color:gainsboro;
+    text-align: center;
+}
+
+.body{
+    background-color:whitesmoke;
+    list-style-type: disc;
+}
+
+.navbar{
+    text-align:center;
+}
